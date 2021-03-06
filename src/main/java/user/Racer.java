@@ -1,2 +1,5 @@
-package user;public class Racer {
+package user;
+
+public class Racer {
+
 }
